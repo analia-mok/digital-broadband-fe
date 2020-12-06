@@ -5,3 +5,4 @@
  */
 
 // You can delete this file if you're not using it
+// TODO: Figure out a way to stitch in metatags data to nodePages - and all other content types.
